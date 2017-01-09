@@ -102,3 +102,6 @@ target/
 /bin
 card-studio-ui.iml
 *DS_Store
+
+Dockerfile
+docker-entrypoint.sh
